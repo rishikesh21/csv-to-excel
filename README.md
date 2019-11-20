@@ -29,6 +29,10 @@ The jar will be in your target folder.
 java -jar excelconverter-1.0-SNAPSHOT-shaded.jar file_1.csv file_2.csv file_3.csv result
 ```
 file_1.csv -Input file 1 
+
 file_2.csv -Input file 2
+
 file_3.csv -Input file 3
+
 result -resulting Excel File
+
